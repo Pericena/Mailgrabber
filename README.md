@@ -6,18 +6,9 @@ Mailgrabber es programa de phishing o clonar paginas de redes sociales para pode
 
 https://lpericena.blogspot.com/2019/07/hackear-gmail-con-mailgrabber-nodejs.html
 
-###Cursos Node js 
+# Video https://vimeo.com/365676960
 
-- Descargar y instalar Nodejs clase #1
-- Servidor HTTP con nodejs - clase #2
-- Express para crear un servidor HTTP con nodejs - clase #3
-- Módulos centrales Node.js - clase 4
-- Mi primera app con Node.js - clase #5
-- Proyecto phishing hacking con node.js -clases #6
-- Hackear gmail con Mailgrabber node.js
-
-
-#Requisitos
+# Requisitos
 
 - Sistema Operativo Windows 7/10
 - Descargar node.js
