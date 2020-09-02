@@ -22,6 +22,9 @@ Una vez descargada ejecutamos el programa, tener instalado node poner como entor
 [![](https://1.bp.blogspot.com/-evgAHaQ48VA/XSQLGjxfvbI/AAAAAAAAQlo/L0czXtZzWNIS-2PFINhttrlRJr_cmksQACLcBGAs/s1600/Screenshot_1.png)](https://lpericena.blogspot.com/)
 
 Veremos las opciones o comandos que nos proporciona para poder usar el programa 
+[![](https://1.bp.blogspot.com/-VGUhOJR5uRs/XSQLGxy2WcI/AAAAAAAAQls/rl1WrSujofI5MhF02_tm5SAm4fjgLhPxQCLcBGAs/s1600/Screenshot_3.png)](https://lpericena.blogspot.com/)
+
+
 ----------COMANDOS------------------- 
 - [+]help -Ayuda 
 - [+]version -Version 
@@ -32,4 +35,23 @@ Veremos las opciones o comandos que nos proporciona para poder usar el programa
 - [+]info -Informacion 
 - [+]install -Instalar node
 
+[![](https://1.bp.blogspot.com/-VyEFleR2lm0/XSQLHKiu4iI/AAAAAAAAQlw/7sfXNtSTPYomj2gU2rsI71gVimeeezMKwCLcBGAs/s1600/Screenshot_2.png)](https://lpericena.blogspot.com/)
 
+
+------------- HELP -------------------
+Mas comandos 
+- [+]ls -Limpiar la pantalla completa 
+- [+]install -Requisitos 
+- [+]node -pagina oficial de node 
+- [*]acortador de link:http://cort.as/-DOln 
+- [+]download -Descargar node 
+- [+]C - cancelar "volver al inicio" 
+
+También se podría instalar node.js con el comando install 
+Con el comando node nos dirigirá a la pagina oficial de www.node.com para poder descargar 
+El comando download nos descargara directamente el programa node en linea 
+info podemos ver la información del programa
+
+server podemos iniciar nuestro servidor local como publico gracias a ngrok usaremos para ataques publico. Para ejecutar la web clonadas están en el folder public
+
+[![](https://1.bp.blogspot.com/-IXIYptuwPy8/XSQLJrnHhLI/AAAAAAAAQmA/STbsmKkBhFIJExdd4JQnEjZZvnR8_AcJQCLcBGAs/s1600/Screenshot_7.png)](https://lpericena.blogspot.com/)
