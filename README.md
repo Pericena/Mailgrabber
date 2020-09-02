@@ -12,4 +12,5 @@ https://lpericena.blogspot.com/2019/07/hackear-gmail-con-mailgrabber-nodejs.html
 
 - Sistema Operativo Windows 7/10
 - Descargar node.js
-- Descargar mas plantillas
+- Descargar 
+- Registrarse en ngrok https://ngrok.com/
