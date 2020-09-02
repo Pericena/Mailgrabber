@@ -13,8 +13,8 @@ https://lpericena.blogspot.com/2019/07/hackear-gmail-con-mailgrabber-nodejs.html
 ```
 - Sistema Operativo Windows 7/10
 - Descargar node.js
-- Descargar git https://git-scm.com/downloads o descargar el archivo Mailgrabber.rar
-- git clone https://github.com/Pericena/Mailgrabber.git
+- Descargar git https://git-scm.com/downloads
+- git clone https://github.com/Pericena/Mailgrabber.git  o descargar el archivo Mailgrabber.rar
 - Registrarse en ngrok https://ngrok.com/
 - Ejecutar Mailgrabber.exe
 ```
